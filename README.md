@@ -1,5 +1,5 @@
 # Reel_of_cellophane_tape
-3d data of a reel of cellophane tape
+3D data of a reel of cellophane tape
 
 セロハンテープのリールの3Dデータです（reel.stl）。
 ご自由にお使いください。
