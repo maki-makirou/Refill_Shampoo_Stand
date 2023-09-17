@@ -1,7 +1,7 @@
 # Reel_of_cellophane_tape
 3d data of a reel of cellophane tape
 
-セロハンテープのリールの3Dデータです。
+セロハンテープのリールの3Dデータです（reel.stl）。
 ご自由にお使いください。
 
 <img src="https://github.com/maki-makirou/Reel_of_cellophane_tape/blob/main/reel.png" width="320px">
