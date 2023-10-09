@@ -1,7 +1,7 @@
-# Reel_of_cellophane_tape
-3D data of a reel of cellophane tape
+# Refill_Shampoo_Stand
+3D data of a refill shampoo stand
 
-セロハンテープのリールの3Dデータです（reel.stl）。
+シャンプー等の3Dデータです（stand.stl）。
 ご自由にお使いください。
 
 <img src="https://github.com/maki-makirou/Reel_of_cellophane_tape/blob/main/reel.png" width="320px">
